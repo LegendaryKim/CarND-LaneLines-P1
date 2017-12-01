@@ -2,7 +2,7 @@
 
 ___
 
-In this project, I utilized the tools what I learned in the Lesson 1 to detect lane lines on the road. 
+In this project you will detect lane lines in images using Python and OpenCV. I utilized the tools what I learned in the Lesson 1 to detect lane lines on the road. 
 
 updated: 07/30/2017
 ___
